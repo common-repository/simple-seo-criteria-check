@@ -1,0 +1,226 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-30 10:46+0100\n"
+"PO-Revision-Date: 2020-01-30 10:46+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: simple-seo-criteria-check.php\n"
+"X-Poedit-SearchPath-1: sscc-images-tab.php\n"
+"X-Poedit-SearchPath-2: sscc-links-tab.php\n"
+"X-Poedit-SearchPath-3: sscc-permlinks-tab.php\n"
+
+#: simple-seo-criteria-check.php:26 simple-seo-criteria-check.php:27
+#: sscc-images-tab.php:89 sscc-links-tab.php:100 sscc-permlinks-tab.php:35
+msgid "Simple SEO Criteria Check"
+msgstr "Simple SEO Criteria Check"
+
+#: simple-seo-criteria-check.php:42
+msgid "Permalinks"
+msgstr "Permalinks"
+
+#: sscc-images-tab.php:15
+msgid "Images"
+msgstr "Bilder"
+
+#: sscc-images-tab.php:92
+msgid "Images and Image Meta Data"
+msgstr "Bilder und Bilder Metadaten"
+
+#: sscc-images-tab.php:106
+msgid "Check Images and related image data"
+msgstr "Prüfe Bilder und  zugehörige Bilddaten"
+
+#: sscc-images-tab.php:108
+msgid ""
+"SEO Tip: Image Files should contain keywords and should be extended by "
+"additional meta data, such as an Alt attribute"
+msgstr ""
+"SEO Tipp: Bildnamen sollten Keywords und zusätzliche Metadaten beinhalten, "
+"wie z. B. ein Alt Text (Alternativtext)"
+
+#: sscc-images-tab.php:110
+msgid "Image Alt Tag:"
+msgstr "Bild Alt Text:"
+
+#: sscc-images-tab.php:110 sscc-images-tab.php:113 sscc-links-tab.php:115
+#: sscc-links-tab.php:118
+msgid "of"
+msgstr "von"
+
+#: sscc-images-tab.php:110
+msgid "total images have an image alt tag"
+msgstr "Bildern insgesamt beinhalten einen Bild Alttext"
+
+#: sscc-images-tab.php:113
+msgid "Image Content:"
+msgstr "Bildbeschreibung:"
+
+#: sscc-images-tab.php:113
+msgid "total images have an image content"
+msgstr "Bildern insgesamt beinhalte Bildbeschreibung"
+
+#: sscc-images-tab.php:120
+msgid "Related Post/Page"
+msgstr "Zugehörige(r) Post/Seite"
+
+#: sscc-images-tab.php:121
+msgid "Alt Tag"
+msgstr "Alt Tag"
+
+#: sscc-images-tab.php:122
+msgid "Excerpt"
+msgstr "Beschriftung"
+
+#: sscc-images-tab.php:123
+msgid "File Name"
+msgstr "Dateiname"
+
+#: sscc-images-tab.php:131 sscc-links-tab.php:139
+msgid "edit Post"
+msgstr "bearbeite Post"
+
+#: sscc-images-tab.php:139
+msgid "edit Image Data"
+msgstr "bearbeite Bilddaten"
+
+#: sscc-images-tab.php:140
+msgid "show Image"
+msgstr "zeige Bild"
+
+#: sscc-links-tab.php:12
+msgid "Internal/External Links"
+msgstr "Interne/externe Links"
+
+#: sscc-links-tab.php:103
+msgid "Internal and External Post Links"
+msgstr "Interne und externe Postlinks"
+
+#: sscc-links-tab.php:113
+msgid "Check posts for internal and external links in content"
+msgstr "Prüfe Posts nach internen und externen Links in der Beschreibung"
+
+#: sscc-links-tab.php:115
+msgid "Internal Links:"
+msgstr "Interne Links:"
+
+#: sscc-links-tab.php:115
+msgid "total posts have internal links"
+msgstr "Posts insgesamt beinhalten interne Links"
+
+#: sscc-links-tab.php:118
+msgid "External Links:"
+msgstr "Externe Links:"
+
+#: sscc-links-tab.php:118
+msgid "total posts have external links"
+msgstr "Posts insgesamt beinhalten externe Links"
+
+#: sscc-links-tab.php:124
+msgid "Post"
+msgstr "Post"
+
+#: sscc-links-tab.php:125
+msgid "Total Internal"
+msgstr "Gesamt Intern"
+
+#: sscc-links-tab.php:126
+msgid "Internal Links"
+msgstr "Interne Links"
+
+#: sscc-links-tab.php:127
+msgid "Total External"
+msgstr "Gesamt Extern"
+
+#: sscc-links-tab.php:128
+msgid "External Links"
+msgstr "Externe Links"
+
+#: sscc-permlinks-tab.php:37
+msgid "Permalink of your posts"
+msgstr "Permalinks der Posts"
+
+#: sscc-permlinks-tab.php:39
+msgid "Check for SEO friendly URLs"
+msgstr "Prüfe nach SEO freundlichen URLs"
+
+#: sscc-permlinks-tab.php:43
+msgid "Check post's permalink lenght of URL."
+msgstr "Prüfe die Länge des  Post-Permalinks."
+
+#: sscc-permlinks-tab.php:44
+msgid "The shorter the URL the better for Ranking"
+msgstr "Je kürzer die URL desto besser für das Ranking"
+
+#: sscc-permlinks-tab.php:45
+msgid "Check also for keywords within permalink"
+msgstr "Prüfe Keywords-Vorkommnisse im Permalink"
+
+#: sscc-permlinks-tab.php:46
+msgid "Use 3 to 5 words within a permalink"
+msgstr "Verwende 3 bis 5 Wörter in einem Permalink"
+
+#: sscc-permlinks-tab.php:58
+msgid "Permalink"
+msgstr "Permalink"
+
+#: sscc-permlinks-tab.php:59
+msgid "Length of Permalink"
+msgstr "Permalink-Länge"
+
+#: sscc-permlinks-tab.php:60
+msgid "Full Permalink"
+msgstr "Vollständiger Permalink"
+
+#: sscc-permlinks-tab.php:61
+msgid "Lenght of URL"
+msgstr "URL-Länge"
+
+#: sscc-permlinks-tab.php:62
+msgid "Total Stop Words"
+msgstr ""
+
+#: sscc-permlinks-tab.php:71
+msgid "edit"
+msgstr "bearbeiten"
+
+#~ msgid "Image Title:"
+#~ msgstr "Bildtitel:"
+
+#~ msgid "total images have an image title"
+#~ msgstr "Bildern insgesamt beinhalten einen Bildtitel"
+
+#~ msgid "Content"
+#~ msgstr "Beschreibung"
+
+#~ msgid "Title"
+#~ msgstr "Titel"
+
+#~ msgid "Image Excerpt:"
+#~ msgstr "Bildbeschriftung:"
+
+#~ msgid "from"
+#~ msgstr "von"
+
+#~ msgid "total images have an image excerpt"
+#~ msgstr "Bildern insgesamt beinhalten eine Bildbeschriftung"
+
+#~ msgid "Simple Seo Criteria Check"
+#~ msgstr "Simple Seo Criteria Check"
+
+#~ msgid "from "
+#~ msgstr "von"
+
+#~ msgid " (from "
+#~ msgstr "von"
+
+#~ msgid "Simple SEO Check"
+#~ msgstr "Simple SEO Criteria Check"

@@ -1,0 +1,43 @@
+table.sscc { border: 1px solid black; border-collapse: collapse; }
+
+th.sscc, td.sscc { padding: 2px 5px; border: 1px solid black; }
+
+thead.sscc { background: #ddd; }
+
+table#attachments.js-sort-0 tbody tr td:nth-child(1),
+table#attachments.js-sort-1 tbody tr td:nth-child(2),
+table#attachments.js-sort-2 tbody tr td:nth-child(3),
+table#attachments.js-sort-3 tbody tr td:nth-child(4),
+table#attachments.js-sort-4 tbody tr td:nth-child(5),
+table#attachments.js-sort-5 tbody tr td:nth-child(6),
+table#attachments.js-sort-6 tbody tr td:nth-child(7),
+table#attachments.js-sort-7 tbody tr td:nth-child(8),
+table#attachments.js-sort-8 tbody tr td:nth-child(9),
+table#attachments.js-sort-9 tbody tr td:nth-child(10) {
+    background: #f1f1f1; 
+}
+
+table#permaurls.js-sort-0 tbody tr td:nth-child(1),
+table#permaurls.js-sort-1 tbody tr td:nth-child(2),
+table#permaurls.js-sort-2 tbody tr td:nth-child(3),
+table#permaurls.js-sort-3 tbody tr td:nth-child(4),
+table#permaurls.js-sort-4 tbody tr td:nth-child(5),
+table#permaurls.js-sort-5 tbody tr td:nth-child(6),
+table#permaurls.js-sort-6 tbody tr td:nth-child(7),
+table#permaurls.js-sort-7 tbody tr td:nth-child(8),
+table#permaurls.js-sort-8 tbody tr td:nth-child(9),
+table#permaurls.js-sort-9 tbody tr td:nth-child(10) {
+    background: #f1f1f1;
+}
+
+.info-bar {
+    background: #ffffff;
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px 0px;
+}
+
+.info-bar span {
+    font-weight: 400;
+    font-size: 14px;
+}
